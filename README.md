@@ -1,1 +1,1 @@
-# fish-weight-prediction2024
+# WishWeightPredictionApplication
